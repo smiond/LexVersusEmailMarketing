@@ -1,0 +1,32 @@
+# Build
+bin/
+obj/
+dist/
+node_modules/
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Environment / secrets
+.env
+.env.*
+appsettings.*.local.json
+**/secrets.json
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+
+twilioRecCode.txt
+*.secrets.*

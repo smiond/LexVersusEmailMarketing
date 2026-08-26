@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LexVersusEmailMarketing.Api/LexVersusEmailMarketing.Api.csproj" />
+    <Project Path="src/LexVersusEmailMarketing.Core/LexVersusEmailMarketing.Core.csproj" />
+    <Project Path="src/LexVersusEmailMarketing.Infrastructure/LexVersusEmailMarketing.Infrastructure.csproj" />
+  </Folder>
+</Solution>
