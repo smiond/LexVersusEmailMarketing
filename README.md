@@ -1,0 +1,2 @@
+# LexVersusEmailMarketing
+Slanje mailing-a
